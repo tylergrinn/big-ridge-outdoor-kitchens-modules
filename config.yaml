@@ -1,0 +1,28 @@
+--- # Configuration file for Big Ridge Outdoor Kitchens configurator
+
+modules:
+  - R48T
+  - R48TR
+  - R48TSDB
+  - R48R
+  - R48RSDS
+  - R48RSD
+  - R48SDB
+  - R71GDDOSDS
+  - R48RSDB
+  - R48DDSDB
+  - R48TSDS
+  - R48SDS
+  - R48TSD
+  - R48SD
+  - R480
+  - R28DD
+  - R48DDDSD
+  - R71GDDODD
+  - R71GDDODDD
+  - R48DDO
+  - R48GDDO
+  - R48DD
+  - R48DDT
+  - R48DDR
+ 
