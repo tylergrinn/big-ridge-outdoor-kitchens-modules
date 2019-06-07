@@ -1,28 +1,86 @@
 --- # Configuration file for Big Ridge Outdoor Kitchens configurator
 
-modules:
-  - R48T
-  - R48TR
-  - R48TSDB
-  - R48R
-  - R48RSDS
-  - R48RSD
-  - R48SDB
-  - R71GDDOSDS
-  - R48RSDB
-  - R48DDSDB
-  - R48TSDS
-  - R48SDS
-  - R48TSD
-  - R48SD
-  - R480
-  - R28DD
-  - R48DDDSD
-  - R71GDDODD
-  - R71GDDODDD
-  - R48DDO
-  - R48GDDO
-  - R48DD
-  - R48DDT
-  - R48DDR
- 
+materialsFile: base-materials.mtl
+texturesFolder: textures
+categories:
+  - name: '28"'
+    modules:
+
+      - name: Double Drawers
+        location: modules/28/R28DD
+
+  - name: '48"'
+    modules:
+
+      - name: Trash Drawer
+        location: modules/48/R48T
+
+      - name: Trash Drawer & Refrigerator
+        location: modules/48/R48TR
+
+      - name: Trash Drawer, Single Access Door & Double Burner
+        location: modules/48/R48TSDB
+
+      - name: Refrigerator
+        location: modules/48/R48R
+
+      - name: Refrigerator, Single Access Door & Sink
+        location: modules/48/R48RSDS_1
+        alternatives:
+          - modules/48/R48RSDS_2
+
+      - name: Refrigerator & Single Access Door
+        location: modules/48/R48RSD
+
+      - name: Single Access Door & Double Burner
+        location: modules/48/R48SDB      
+
+      - name: Refrigerator, Single Access Door & Double Burner
+        location: modules/48/R48RSDB
+
+      - name: Double Drawers, Single Access Door & Double Burner
+        location: modules/48/R48DDSDB
+      
+      - name: Single Door & Sink
+        location: modules/48/R48SDS
+      
+      - name: Trash Drawer & Single Access Door
+        location: modules/48/R48TSD
+      
+      - name: Single Access Door
+        location: modules/48/R48SD
+      
+      - name: Open
+        location: modules/48/R480
+      
+      - name: Double Drawers & Single Access Door
+        location: modules/48/R48DDDSD
+      
+      - name: Double Drawers
+        location: modules/48/R48DDO
+      
+      - name: Grill & Double Doors
+        location: modules/48/R48GDDO
+      
+      - name: Double Doors
+        location: modules/48/R48DD
+      
+      - name: Trash Drawer & Double Drawers
+        location: modules/48/R48DDT
+      
+      - name: Refrigerator & Double Drawers
+        location: modules/48/R48DDR
+
+  - name: '72"'
+    modules:
+
+      - name: Grill, Double Doors & Double Drawers
+        location: modules/71/R71GDDODD_1
+        alternatives:
+          - modules/71/R71GDDODD_2
+      
+      - name: Grill, Double Doors, Double Drawers & Double Side Burner
+        location: modules/71/R71GDDODDD
+
+      - name: Grill, Double Doors, Single Access Door & Sink
+        location: modules/71/R71GDDOSDS
