@@ -1,7 +1,7 @@
 --- # Configuration file for Big Ridge Outdoor Kitchens configurator
 
 materialsFile: base-materials.mtl
-texturesFolder: textures
+texturesFolder: textures/
 categories:
   - name: '28"'
     modules:
