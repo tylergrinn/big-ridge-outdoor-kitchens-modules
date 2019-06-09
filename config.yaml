@@ -32,9 +32,6 @@ categories:
       - name: Refrigerator & Single Access Door
         location: modules/48/R48RSD
 
-      - name: Single Access Door & Double Burner
-        location: modules/48/R48SDB      
-
       - name: Refrigerator, Single Access Door & Double Burner
         location: modules/48/R48RSDB
 
@@ -51,7 +48,7 @@ categories:
         location: modules/48/R48SD
       
       - name: Open
-        location: modules/48/R480
+        location: modules/48/R48O
       
       - name: Double Drawers & Single Access Door
         location: modules/48/R48DDDSD
