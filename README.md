@@ -11,8 +11,9 @@
 3. Navigate in this repository to the folder you'd like to use and upload the resulting `.obj` file from the last step using the `Upload files` button. You'll need to add a message describing the additions and then click `Commit changes`.
 4. Navigate to the root directory and click the file `config.yaml`
 5. Click the ![Edit](docs/edit.PNG "Edit") button just above the start of the file and to the right. 
-6. Copy and paste one of the existing modules. Each module starts with `- name: NAME` and ends with a blank line. Edit it to match the name and location of the file you uploaded.
-
+6. Copy and paste one of the existing modules. Each module starts with `- name: NAME` and ends with a blank line. Edit it to match the name and location of the file you uploaded. Don't include the file extension.
+7. Create a `.png` file with the same name as the module you uploaded. This will be the thumbnail displayed in the modules tree view.
+8. Upload the image to the same directory as the new module.
 
 # Materials
 
