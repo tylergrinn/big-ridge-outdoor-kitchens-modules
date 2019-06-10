@@ -19,7 +19,8 @@ All of the materials used are consolidated into the `base-materials.mtl` file in
 
 Each material in the file is preceded by `newmtl` then the name of the material. These are the only material names you can use in a sketchup file. In order to add a new material to the `base-materials.mtl` file, do the following:
 
-1. Export the sketchup file as specified above with the following options ![Export Options](docs/material-export-options.PNG "Export Options")
+1. Export the sketchup file as specified above with the following options\
+![Export Options](docs/material-export-options.PNG "Export Options")
 
 2. Open the resulting `.mtl` file
 3. Find the new material that does not currently exist in base-materials.mtl and copy the new material code block down to the next blank line
