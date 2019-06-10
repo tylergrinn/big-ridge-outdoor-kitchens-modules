@@ -1,5 +1,5 @@
---- #   Configuration file for Big Ridge Outdoor Kitchens configurator
-
+# Configuration file for Big Ridge Outdoor Kitchens configurator
+---
 materialsFile: base-materials.mtl
 texturesFolder: textures/
 categories:
