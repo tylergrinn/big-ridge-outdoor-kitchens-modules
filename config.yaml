@@ -1,4 +1,4 @@
---- # Configuration file for Big Ridge Outdoor Kitchens configurator
+--- #  Configuration file for Big Ridge Outdoor Kitchens configurator
 
 materialsFile: base-materials.mtl
 texturesFolder: textures/
@@ -37,34 +37,34 @@ categories:
 
       - name: Double Drawers, Single Access Door & Double Burner
         location: modules/48/R48DDSDB
-      
+
       - name: Single Door & Sink
         location: modules/48/R48SDS
-      
+
       - name: Trash Drawer & Single Access Door
         location: modules/48/R48TSD
-      
+
       - name: Single Access Door
         location: modules/48/R48SD
-      
+
       - name: Open
         location: modules/48/R48O
-      
+ 
       - name: Double Drawers & Single Access Door
         location: modules/48/R48DDDSD
-      
+
       - name: Double Drawers
         location: modules/48/R48DDO
-      
+
       - name: Grill & Double Doors
         location: modules/48/R48GDDO
-      
+
       - name: Double Doors
         location: modules/48/R48DD
-      
+
       - name: Trash Drawer & Double Drawers
         location: modules/48/R48DDT
-      
+
       - name: Refrigerator & Double Drawers
         location: modules/48/R48DDR
 
@@ -75,7 +75,7 @@ categories:
         location: modules/71/R71GDDODD_1
         alternatives:
           - modules/71/R71GDDODD_2
-      
+
       - name: Grill, Double Doors, Double Drawers & Double Side Burner
         location: modules/71/R71GDDODDD
 
