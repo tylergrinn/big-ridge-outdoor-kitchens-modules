@@ -1,4 +1,4 @@
---- #  Configuration file for Big Ridge Outdoor Kitchens configurator
+--- #   Configuration file for Big Ridge Outdoor Kitchens configurator
 
 materialsFile: base-materials.mtl
 texturesFolder: textures/
@@ -49,7 +49,7 @@ categories:
 
       - name: Open
         location: modules/48/R48O
- 
+
       - name: Double Drawers & Single Access Door
         location: modules/48/R48DDDSD
 
