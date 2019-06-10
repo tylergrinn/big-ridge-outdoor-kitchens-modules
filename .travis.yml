@@ -1,0 +1,3 @@
+language: minimal
+install: pip install yamllint
+script: yamllint config.yaml
