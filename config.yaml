@@ -3,13 +3,13 @@
 materialsFile: base-materials.mtl
 texturesFolder: textures/
 categories:
-  - name: '28"'
+  - name: '29"'
     modules:
 
       - name: Double Drawers
         location: modules/28/R28DD
         size:
-          width: 28
+          width: 29
           depth: 29
 
   - name: '48"'
@@ -134,16 +134,16 @@ categories:
           - modules/71/R71GDDODD_2
         size:
           width: 71
-          depth: 28
+          depth: 29
 
       - name: Grill, Double Doors, Double Drawers & Double Side Burner
         location: modules/71/R71GDDODDD
         size:
           width: 71
-          depth: 28
+          depth: 29
 
       - name: Grill, Double Doors, Single Access Door & Sink
         location: modules/71/R71GDDOSDS
         size:
           width: 71
-          depth: 28
+          depth: 29
