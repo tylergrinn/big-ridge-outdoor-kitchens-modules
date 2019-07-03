@@ -42,7 +42,7 @@ categories:
       - name: Refrigerator, Single Access Door & Sink
         location: modules/48/R48RSDS_1
         alternatives:
-          - modules/48/R48RSDS_2
+          - location: modules/48/R48RSDS_2
         size:
           width: 48
           depth: 29
@@ -131,7 +131,7 @@ categories:
       - name: Grill, Double Doors & Double Drawers
         location: modules/71/R71GDDODD_1
         alternatives:
-          - modules/71/R71GDDODD_2
+          - location: modules/71/R71GDDODD_2
         size:
           width: 71
           depth: 29
