@@ -11,6 +11,9 @@ categories:
         size:
           width: 29
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
   - name: '48"'
     modules:
@@ -20,24 +23,36 @@ categories:
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Trash Drawer & Refrigerator
         location: modules/48/R48TR
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Trash Drawer, Single Access Door & Double Burner
         location: modules/48/R48TSDB
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Refrigerator
         location: modules/48/R48R
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Refrigerator, Single Access Door & Sink
         location: modules/48/R48RSDS_1
@@ -46,84 +61,126 @@ categories:
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Refrigerator & Single Access Door
         location: modules/48/R48RSD
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Refrigerator, Single Access Door & Double Burner
         location: modules/48/R48RSDB
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Double Drawers, Single Access Door & Double Burner
         location: modules/48/R48DDSDB
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Single Door & Sink
         location: modules/48/R48SDS
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Trash Drawer & Single Access Door
         location: modules/48/R48TSD
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Single Access Door
         location: modules/48/R48SD
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Open
         location: modules/48/R48O
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Double Drawers & Single Access Door
         location: modules/48/R48DDDSD
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Double Drawers
         location: modules/48/R48DDO
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Grill & Double Doors
         location: modules/48/R48GDDO
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Double Doors
         location: modules/48/R48DD
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Trash Drawer & Double Drawers
         location: modules/48/R48DDT
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Refrigerator & Double Drawers
         location: modules/48/R48DDR
         size:
           width: 48
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
   - name: '71"'
     modules:
@@ -135,15 +192,24 @@ categories:
         size:
           width: 71
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Grill, Double Doors, Double Drawers & Double Side Burner
         location: modules/71/R71GDDODDD
         size:
           width: 71
           depth: 29
+        connectableFaces:
+          - left
+          - right
 
       - name: Grill, Double Doors, Single Access Door & Sink
         location: modules/71/R71GDDOSDS
         size:
           width: 71
           depth: 29
+        connectableFaces:
+          - left
+          - right
