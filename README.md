@@ -31,3 +31,14 @@ Each material in the file is preceded by `newmtl` then the name of the material.
   a. remove all the folders above the jpg file so it looks like `map_Kd TEXTURE_FILE.jpg`\
   b. Find the resulting texture `.jpg` file from the first step and upload it to the `textures` folder in this repository
 6. Upload the resulting `.obj` file from the first step as described above.
+
+# Connectable Faces
+
+In the `config.yaml`, each module can have a connectableFaces array with the following values:
+- 'left' (x=0 plane)
+- 'right' (x=width plane)
+- 'front' (z=0 plane)
+- 'back' (z=-depth plane)
+
+The width and depth values are taken from the 'size' property of the module. Most pieces will be connectable by just their left and right faces.
+
