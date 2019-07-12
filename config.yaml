@@ -16,7 +16,7 @@ categories:
           - right
 
       - name: Open
-        location: modules/29/R290
+        location: modules/29/R29O
         size:
           width: 29
           depth: 29
