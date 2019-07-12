@@ -7,7 +7,7 @@ categories:
     modules:
 
       - name: Double Drawers
-        location: modules/28/R28DD
+        location: modules/29/R29DD
         size:
           width: 29
           depth: 29
