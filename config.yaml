@@ -53,6 +53,15 @@ categories:
           - left
           - right
 
+      - name: Single Access Door & Sink
+        location: modules/29/R29SDS
+        size:
+          width: 29
+          depth: 29
+        connectableFaces:
+          - left
+          - right
+
   - name: '48"'
     modules:
 
