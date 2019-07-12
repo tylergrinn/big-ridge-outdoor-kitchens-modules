@@ -35,6 +35,15 @@ categories:
           - left
           - right
 
+      - name: Single Access Door
+        location: modules/29/R29SD
+        size:
+          width: 29
+          depth: 29
+        connectableFaces:
+          - left
+          - right
+
   - name: '48"'
     modules:
 
