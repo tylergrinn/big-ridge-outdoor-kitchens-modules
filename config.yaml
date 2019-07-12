@@ -62,6 +62,15 @@ categories:
           - left
           - right
 
+      - name: Trash Drawer
+        location: modules/29/R29T
+        size:
+          width: 29
+          depth: 29
+        connectableFaces:
+          - left
+          - right
+
   - name: '48"'
     modules:
 
