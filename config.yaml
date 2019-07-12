@@ -44,6 +44,15 @@ categories:
           - left
           - right
 
+      - name: Single Access Door & Double Burner
+        location: modules/29/R29SDB
+        size:
+          width: 29
+          depth: 29
+        connectableFaces:
+          - left
+          - right
+
   - name: '48"'
     modules:
 
