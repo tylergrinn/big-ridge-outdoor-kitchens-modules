@@ -15,6 +15,17 @@ categories:
           - left
           - right
 
+      - name: Open
+        location: modules/29/R290
+        size:
+          width: 29
+          depth: 29
+        connectableFaces:
+          - left
+          - right
+          - front
+          - back
+
   - name: '48"'
     modules:
 
