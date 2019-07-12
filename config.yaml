@@ -26,6 +26,15 @@ categories:
           - front
           - back
 
+      - name: Refridgerator
+        location: modules/29/R29R
+        size:
+          width: 29
+          depth: 29
+        connectableFaces:
+          - left
+          - right
+
   - name: '48"'
     modules:
 
