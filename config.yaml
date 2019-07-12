@@ -186,9 +186,7 @@ categories:
     modules:
 
       - name: Grill, Double Doors & Double Drawers
-        location: modules/71/R71GDDODD_1
-        alternatives:
-          - location: modules/71/R71GDDODD_2
+        location: modules/71/R71GDDODD
         size:
           width: 71
           depth: 29
