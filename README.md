@@ -15,6 +15,14 @@
 7. Create a `.png` file with the same name as the module you uploaded. This will be the thumbnail displayed in the modules tree view.
 8. Upload the image to the same directory as the new module.
 
+### Getting the product id
+
+1. Go to the bigcommerce dashboard and click 'Products'
+2. Click 'Export' and choose the 'Default' Built In Template and 'CSV' for the file format
+3. Open the CSV file using excel
+4. Find the row with the product you want to get the id of. As of this writing, the RTF Connect Modules start on row 1292
+5. Copy the Product ID from the first column and add it to the module section in the config.yaml
+
 # Materials
 
 All of the materials used are consolidated into the `base-materials.mtl` file in the root of this repository.

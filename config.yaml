@@ -14,6 +14,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2956
 
       - name: Open
         location: modules/29/R29O
@@ -25,6 +26,7 @@ categories:
           - right
           - front
           - back
+        productId: 2962
 
       - name: Refridgerator
         location: modules/29/R29R
@@ -34,6 +36,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2961
 
       - name: Single Access Door
         location: modules/29/R29SD
@@ -43,6 +46,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2959
 
       - name: Single Access Door & Double Burner
         location: modules/29/R29SDB
@@ -52,6 +56,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2958
 
       - name: Single Access Door & Sink
         location: modules/29/R29SDS
@@ -61,6 +66,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2957
 
       - name: Trash Drawer
         location: modules/29/R29T
@@ -70,6 +76,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2960
 
   - name: '48"'
     modules:
@@ -82,6 +89,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2972
 
       - name: Trash Drawer & Refrigerator
         location: modules/48/R48TR
@@ -91,6 +99,8 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2968
+
 
       - name: Trash Drawer, Single Access Door & Double Burner
         location: modules/48/R48TSDB
@@ -100,6 +110,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2970
 
       - name: Refrigerator
         location: modules/48/R48R
@@ -109,6 +120,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2976
 
       - name: Refrigerator, Single Access Door & Sink
         location: modules/48/R48RSDS_1
@@ -120,6 +132,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2973
 
       - name: Refrigerator & Single Access Door
         location: modules/48/R48RSD
@@ -129,6 +142,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2975
 
       - name: Refrigerator, Single Access Door & Double Burner
         location: modules/48/R48RSDB
@@ -138,6 +152,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2974
 
       - name: Double Drawers, Single Access Door & Double Burner
         location: modules/48/R48DDSDB
@@ -147,6 +162,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2966
 
       - name: Single Door & Sink
         location: modules/48/R48SDS
@@ -156,6 +172,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2977
 
       - name: Trash Drawer & Single Access Door
         location: modules/48/R48TSD
@@ -165,6 +182,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2971
 
       - name: Single Access Door
         location: modules/48/R48SD
@@ -174,6 +192,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2979
 
       - name: Open
         location: modules/48/R48O
@@ -183,15 +202,7 @@ categories:
         connectableFaces:
           - left
           - right
-
-      - name: Double Drawers & Single Access Door
-        location: modules/48/R48DDDSD
-        size:
-          width: 48
-          depth: 29
-        connectableFaces:
-          - left
-          - right
+        productId: 2982
 
       - name: Double Drawers
         location: modules/48/R48DDO
@@ -201,6 +212,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2967
 
       - name: Grill & Double Doors
         location: modules/48/R48GDDO
@@ -210,6 +222,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2980
 
       - name: Double Doors
         location: modules/48/R48DD
@@ -219,6 +232,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2981
 
       - name: Trash Drawer & Double Drawers
         location: modules/48/R48DDT
@@ -228,6 +242,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2964
 
       - name: Refrigerator & Double Drawers
         location: modules/48/R48DDR
@@ -237,6 +252,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2963
 
   - name: '71"'
     modules:
@@ -249,6 +265,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2983
 
       - name: Grill, Double Doors, Double Drawers & Double Side Burner
         location: modules/71/R71GDDODDD
@@ -258,6 +275,7 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2985
 
       - name: Grill, Double Doors, Single Access Door & Sink
         location: modules/71/R71GDDOSDS
@@ -267,3 +285,4 @@ categories:
         connectableFaces:
           - left
           - right
+        productId: 2984
