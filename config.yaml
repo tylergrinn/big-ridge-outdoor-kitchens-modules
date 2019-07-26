@@ -15,6 +15,7 @@ categories:
           - left
           - right
         productId: 2956
+        variantId: 2921
 
       - name: Open
         location: modules/29/R29O
@@ -27,6 +28,7 @@ categories:
           - front
           - back
         productId: 2962
+        variantId: 2927
 
       - name: Refridgerator
         location: modules/29/R29R
@@ -37,6 +39,7 @@ categories:
           - left
           - right
         productId: 2961
+        variantId: 2926
 
       - name: Single Access Door
         location: modules/29/R29SD
@@ -47,6 +50,7 @@ categories:
           - left
           - right
         productId: 2959
+        variantId: 2924
 
       - name: Single Access Door & Double Burner
         location: modules/29/R29SDB
@@ -57,6 +61,7 @@ categories:
           - left
           - right
         productId: 2958
+        variantId: 2923
 
       - name: Single Access Door & Sink
         location: modules/29/R29SDS
@@ -67,6 +72,7 @@ categories:
           - left
           - right
         productId: 2957
+        variantId: 2922
 
       - name: Trash Drawer
         location: modules/29/R29T
@@ -77,6 +83,7 @@ categories:
           - left
           - right
         productId: 2960
+        variantId: 2925
 
   - name: '48"'
     modules:
@@ -90,6 +97,7 @@ categories:
           - left
           - right
         productId: 2972
+        variantId: 2937
 
       - name: Trash Drawer & Refrigerator
         location: modules/48/R48TR
@@ -100,7 +108,7 @@ categories:
           - left
           - right
         productId: 2968
-
+        variantId: 2933
 
       - name: Trash Drawer, Single Access Door & Double Burner
         location: modules/48/R48TSDB
@@ -111,6 +119,7 @@ categories:
           - left
           - right
         productId: 2970
+        variantId: 2935
 
       - name: Refrigerator
         location: modules/48/R48R
@@ -121,11 +130,12 @@ categories:
           - left
           - right
         productId: 2976
+        variantId: 2941
 
       - name: Refrigerator, Single Access Door & Sink
         location: modules/48/R48RSDS_1
         alternatives:
-          - location: modules/48/R48RSDS_2
+          - location: modules/48/R48RSDS_2 
         size:
           width: 48
           depth: 29
@@ -133,6 +143,7 @@ categories:
           - left
           - right
         productId: 2973
+        variantId: 2938
 
       - name: Refrigerator & Single Access Door
         location: modules/48/R48RSD
@@ -143,6 +154,7 @@ categories:
           - left
           - right
         productId: 2975
+        variantId: 2940
 
       - name: Refrigerator, Single Access Door & Double Burner
         location: modules/48/R48RSDB
@@ -153,6 +165,7 @@ categories:
           - left
           - right
         productId: 2974
+        variantId: 2939
 
       - name: Double Drawers, Single Access Door & Double Burner
         location: modules/48/R48DDSDB
@@ -163,6 +176,7 @@ categories:
           - left
           - right
         productId: 2966
+        variantId: 2931
 
       - name: Single Door & Sink
         location: modules/48/R48SDS
@@ -173,6 +187,7 @@ categories:
           - left
           - right
         productId: 2977
+        variantId: 2942
 
       - name: Trash Drawer & Single Access Door
         location: modules/48/R48TSD
@@ -183,6 +198,7 @@ categories:
           - left
           - right
         productId: 2971
+        variantId: 2936
 
       - name: Single Access Door
         location: modules/48/R48SD
@@ -193,6 +209,7 @@ categories:
           - left
           - right
         productId: 2979
+        variantId: 2944
 
       - name: Open
         location: modules/48/R48O
@@ -203,6 +220,7 @@ categories:
           - left
           - right
         productId: 2982
+        variantId: 2947
 
       - name: Double Drawers
         location: modules/48/R48DDO
@@ -213,6 +231,7 @@ categories:
           - left
           - right
         productId: 2967
+        variantId: 2932
 
       - name: Grill & Double Doors
         location: modules/48/R48GDDO
@@ -223,6 +242,7 @@ categories:
           - left
           - right
         productId: 2980
+        variantId: 2945
 
       - name: Double Doors
         location: modules/48/R48DD
@@ -233,6 +253,7 @@ categories:
           - left
           - right
         productId: 2981
+        variantId: 2946
 
       - name: Trash Drawer & Double Drawers
         location: modules/48/R48DDT
@@ -243,6 +264,7 @@ categories:
           - left
           - right
         productId: 2964
+        variantId: 2929
 
       - name: Refrigerator & Double Drawers
         location: modules/48/R48DDR
@@ -253,6 +275,7 @@ categories:
           - left
           - right
         productId: 2963
+        variantId: 2928
 
   - name: '71"'
     modules:
@@ -266,6 +289,7 @@ categories:
           - left
           - right
         productId: 2983
+        variantId: 2948
 
       - name: Grill, Double Doors, Double Drawers & Double Side Burner
         location: modules/71/R71GDDODDD
@@ -276,6 +300,7 @@ categories:
           - left
           - right
         productId: 2985
+        variantId: 2950
 
       - name: Grill, Double Doors, Single Access Door & Sink
         location: modules/71/R71GDDOSDS
@@ -286,3 +311,4 @@ categories:
           - left
           - right
         productId: 2984
+        variantId: 2949
