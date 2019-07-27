@@ -51,6 +51,8 @@ categories:
           - right
         productId: 2959
         variantId: 2924
+        options:
+          - id: 5609
 
       - name: Single Access Door & Double Burner
         location: modules/29/R29SDB
@@ -312,3 +314,12 @@ categories:
           - right
         productId: 2984
         variantId: 2949
+
+options:
+  - name: Hinge Swing Location
+    id: 5609
+    values:
+      - label: Left Hinged
+        id: 1111
+      - label: Right Hinged
+        id: 1112
