@@ -2,16 +2,6 @@
 ---
 materialsFile: base-materials.mtl
 texturesFolder: textures/
-
-- option: &option5555
-    name: Hinge Swing Location
-    id: 5555
-    values:
-      - name: Left Hinged
-        id: 1111
-      - name: Right Hinged
-        id: 1112
-
 categories:
   - name: '29"'
     modules:
@@ -61,9 +51,6 @@ categories:
           - right
         productId: 2959
         variantId: 2924
-        options:
-          - *option5555
-
 
       - name: Single Access Door & Double Burner
         location: modules/29/R29SDB
