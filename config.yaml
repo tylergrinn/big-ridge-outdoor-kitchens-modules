@@ -53,6 +53,7 @@ categories:
         variantId: 2924
         options:
           - id: 5609
+            required: true
 
       - name: Single Access Door & Double Burner
         location: modules/29/R29SDB
